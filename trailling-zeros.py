@@ -8,4 +8,4 @@ initial_value = 0
 while value > div:
 	initial_value = initial_value + (value / div)
 	div = div * 5
-print "The value of number of trailing-zeros are : " + str(initial_value)
+print  str(initial_value)
